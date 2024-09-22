@@ -13,3 +13,11 @@ i
 ​
  . It can be shown that the final score of person 
 N is uniquely determined regardless of the sequence of games.
+
+## input 
+```bash
+4
+1 -1 4
+```
+## output 
+2
