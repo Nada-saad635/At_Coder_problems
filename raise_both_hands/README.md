@@ -1,4 +1,4 @@
-# Problem Statement
+### Problem Statement
 Takahashi decided to make takoyaki (octopus balls) and serve it to Snuke. Takahashi instructed Snuke to raise only his left hand if he wants to eat takoyaki, and only his right hand otherwise.
 
 You are given the information about which hand Snuke is raising as two integers 
