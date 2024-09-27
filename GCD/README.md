@@ -1,0 +1,1 @@
+GCD Program: Write a program that calculates the greatest common divisor (GCD) of two numbers using the Euclidean algorithm.
